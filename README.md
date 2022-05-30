@@ -5,7 +5,7 @@ Guunadharr/Guunadharr is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Guunadharr.N.V</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Mobile developer from India</h3>
 
 - 🔭 I’m currently working as Mobile Developer at [World of Professionals](Philippines)
 
